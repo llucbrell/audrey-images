@@ -28,15 +28,15 @@ Example
 ```js
 var myTerminalDisplay={
 	body:["x?image"],//tell audrey where you want to display it
-	image:"path/to/image.png" ,//tell audrey what symbol use
+	image:"path/to/image.png" ,//tell audrey what image you want to use
 	};
 
-var audrey2= require('audrey-two');
+var audrey2= require('audrey-two');//inicialize audrey
 var audrey= audrey2(myTerminalDisplay);
 
 //run your command and pass error objects to audrey
 
-audrey.seed(["audrey-images-x?"]);
+audrey.seed(["audrey-images-x?"]);//It's an scion don't forget th "x"
 //tell audrey that there is a new seed
 audrey.encore();//run audrey
 ```
@@ -46,4 +46,4 @@ This scion only works with very small png images, because it doesn't matter abou
 
 Look at this image and you'll look the pixels respect the magenta text.
 
-![](https://raw.githubusercontent.com/llucbrell/audrey-images/master/captura2.png) 
+![](https://github.com/llucbrell/audrey-images/blob/master/catura2.png) 
