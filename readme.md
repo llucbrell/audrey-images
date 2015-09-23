@@ -1,4 +1,4 @@
-# audrey-errsign
+# audrey-images
 
 > Scion for [audrey-two](https://www.npmjs.com/package/audrey-two) VCCLI (View-Control-Command-Line-Interface) ^v2.0.0
 
@@ -46,4 +46,4 @@ This scion only works with very small png images, because it doesn't matter abou
 
 Look at this image and you'll look the pixels respect the magenta text.
 
-![](https://github.com/llucbrell/audrey-images/blob/master/catura2.png) 
+![](https://raw.github.com/llucbrell/audrey-images/master/captura2.png) 
