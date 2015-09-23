@@ -6,7 +6,7 @@
 
 ## What this scion does?
 
-Include into your audrey-two-view images.
+Include images into your audrey-two-view.
 
 ## Specifications
 
