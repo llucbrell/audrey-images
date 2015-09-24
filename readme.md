@@ -46,4 +46,4 @@ This scion only works with very small png images, because it doesn't matter abou
 
 Look at this image and you'll look the pixels respect the magenta text.
 
-![](https://raw.github.com/llucbrell/audrey-images/master/captura2.png) 
+![](https://raw.githubusercontent.com/llucbrell/audrey-images/master/catura2.png) 
