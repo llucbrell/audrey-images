@@ -31,7 +31,7 @@ var myTerminalDisplay={
 	image:"path/to/image.png" ,//tell audrey what image you want to use
 	};
 
-var audrey2= require('audrey-two');//inicialize audrey
+var audrey2= require('nameOfView','audrey-two');//inicialize audrey
 var audrey= audrey2(myTerminalDisplay);
 
 //run your command and pass error objects to audrey

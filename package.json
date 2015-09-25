@@ -1,6 +1,6 @@
 {
   "name": "audrey-images",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "audrey-two scion for display images over the console",
   "main": "index.js",
   "scripts": {
